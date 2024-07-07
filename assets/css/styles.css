@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Navbar */
+.navbar-brand img {
+    width: 132px;
+}
+
+.navbar {
+    background: #E83E8C;
+}
+#navbarTogglerDemo02 {
+    background: #E83E8C;
+}
+
+
+/* .navbar div {
+    height: 75px;
+} */
+
+/* Header */
+header h1 {
+    font-size: 60px;
+    color: #707070;
+}
+
+/* Cards */
+.card {
+    margin: 0 auto; /* Centra la tarjeta horizontalmente */
+    width: 18rem; /* O cualquier ancho que prefieras */
+}
+.card-body h5 {
+    font-weight: 700;
+} 
+
+/* Seccion formas de pago */
+.pago__container {
+    height: 170px;
+    background: #17A2B8;
+}
+.pago__container h3 {
+    font-size: 40px;
+    font-weight: 700;
+}
+.pago__container i {
+    font-size: 50px;
+}
+
+/* Footer */
+footer {
+    background: #E83E8C;
+    height: 184px;
+}
